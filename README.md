@@ -64,6 +64,9 @@ By selecting guidelines and prohibitions to ensure the safety of Rectcoin users,
 
 To achieve our goal, the guidelines and prohibitions must be We appreciate your cooperation in clearly following the guidelines and prohibitions and refraining from any fraudulent activities. Thank you in advance for your cooperation.
 
+For more information on guidelines and prohibitions, please click here.
+https://github.com/Rectcoin/Rectcoin/tree/master/rules
+
 ## Notices.
 
 **Prohibited** from Production Deployment
