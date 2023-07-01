@@ -54,6 +54,16 @@ source myenv/bin/activate
 python3 Rectcoin.py
 ```
 
+## Our Thoughts
+
+Rectcoin is not intended for investment,primarily focused on use for projects and platforms.utility tokens.
+
+Our goal is to build a healthy and safe ecosystem that will allow us to grow with you and return value to you in the future.
+
+By selecting guidelines and prohibitions to ensure the safety of Rectcoin users, we aim to ensure the sound operation of our platform and services, and to protect our users and increase their trust in us.
+
+To achieve our goal, the guidelines and prohibitions must be We appreciate your cooperation in clearly following the guidelines and prohibitions and refraining from any fraudulent activities. Thank you in advance for your cooperation.
+
 ## Notices.
 
 **Prohibited** from Production Deployment
