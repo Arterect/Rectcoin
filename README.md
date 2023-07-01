@@ -22,8 +22,6 @@ The following prerequisites are required to run this project.
 - Ganache must be installed in your local environment
 - Ganache is running and the default network settings (port number, network ID, etc.) are properly configured
 
-Please make sure that the above prerequisites are met before proceeding with the following steps.
-
 ### 3. Git clone
 - Clone this repository to your local machine. Execute the following command
 ```
@@ -35,11 +33,9 @@ git clone https://github.com/Rectcoin/Rectcoin.git
 - Set the `url` variable in the code to the appropriate Ganache connection URL.
 - Set the `private_key` variable in the code to the appropriate private key.
 
-Make sure that the above prerequisites are met before proceeding with the following steps.
+Please make sure that the above prerequisites are met before proceeding with the following steps.
 
 ## Development Process
-### prerequisites
-
 
 ### Enable virtual environment (Windows)
 ```
